@@ -1,0 +1,6 @@
+Przykładowe zdanie np. cd. itd.
+Mój numer telefonu to 790 444 123
+Jego e-mail to grzegorzgk1@gmail.com
+Mamy rok 2014 r.
+Adress localhost to 192.0.0.1
+Przykładowa strona internetowa www.onet.pl albo http://www.wp.pl
